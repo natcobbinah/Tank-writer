@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/synthetica_2.20.3_eval/synthetica.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaAluOxide_2.9.10/syntheticaAluOxide.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaBlackEye_2.9.14/syntheticaBlackEye.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaBlackMoon_2.9.6/syntheticaBlackMoon.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaBlackStar_2.9.6/syntheticaBlackStar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaBlueIce_2.9.6/syntheticaBlueIce.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaBlueLight_2.9.4/syntheticaBlueLight.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaBlueMoon_2.9.6/syntheticaBlueMoon.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaBlueSteel_2.9.6/syntheticaBlueSteel.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaClassy_2.9.11/syntheticaClassy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaGreenDream_2.9.7/syntheticaGreenDream.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaMauveMetallic_2.9.5/syntheticaMauveMetallic.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaOrangeMetallic_2.9.5/syntheticaOrangeMetallic.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaPlain_2.9.1/syntheticaPlain.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaSilverMoon_2.9.6/syntheticaSilverMoon.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaSimple2D_2.9.19/syntheticaSimple2D.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaSkyMetallic_2.9.5/syntheticaSkyMetallic.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/synthetica/syntheticaWhiteVision_2.9.6/syntheticaWhiteVision.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
