@@ -74,11 +74,9 @@ public class AboutTankEdit extends JFrame {
 		infopanel.setBackground(Color.red);
 
 		closebutton = new JButton("Close");
-
-		closebutton.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent arg0) {
-				setVisible(false);
-			}
+		
+		closebutton.addActionListener((ActionEvent e) -> {
+			 setVisible(false);
 		});
 
 		closepanel = new JPanel();
